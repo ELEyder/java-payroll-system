@@ -140,7 +140,7 @@ public class frmPlanilla extends JFrame implements Runnable {
 		btnPlanillas.setFocusPainted(false);
 		btnPlanillas.setForeground(Color.white);
 		pnlApp.add(btnPlanillas);
-
+		
 		btnInformes = new JButton("INFORMES");
 		btnInformes.setBounds(550,0,150,50);
 		btnInformes.setBackground( new Color(90,17,93) );
